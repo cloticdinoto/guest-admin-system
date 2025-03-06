@@ -94,6 +94,7 @@ while (isRunning)
     if (backToMenu == "y")
     {
         backToMenu = "";
+        Console.Clear();
     }
     else if (backToMenu == "n")
     {
